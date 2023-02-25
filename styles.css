@@ -1,0 +1,52 @@
+
+
+
+/*body */
+body {
+    background-color: rgb(222, 185, 185);
+}
+
+
+
+
+/*h1*/
+h1, h2  {
+   font-size: 2.2em;
+   color: rgb(56, 12, 12);
+   
+}
+
+/*nav ul (see pg 145)*/
+nav {
+    color: rgb(225, 228, 35);
+}
+
+.text {
+    color: rgb(155, 91, 84);
+}
+
+
+nav {
+    background-color: rgb(230, 163, 104);
+    border-style: solid;
+    border-color: rgb(114, 79, 76);
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+
+    
+    
+/*section*/
+
+section  {
+    color:  rgb(155, 91, 84);
+}
+
+/*footer*/
+footer {
+    font-family: cursive;
+
+}
+
+
